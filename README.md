@@ -37,7 +37,7 @@ The clock will automatically display the current time and update every second.
 If desired, users can create a ClockPane with specific hour, minute, and second values to display a custom time.
 This feature can be utilized for educational purposes or for showcasing a specific time scenario.
 
-# Note:
+# Note :
 
 - This clock application serves as a valuable example of JavaFX's capabilities for creating interactive and visually appealing graphical user interfaces. Whether you're looking to understand JavaFX animation or want to implement a custom analog clock display in your Java application, this repository provides an instructive starting point.
 
