@@ -3,7 +3,7 @@
 
 This GitHub repository contains a JavaFX application for creating an interactive analog clock. The application, named "Clock," allows users to visualize the current time using a classic analog clock face, complete with hour, minute, and second hands. The clock is designed as an educational and visual demonstration of JavaFX's capabilities for building graphical user interfaces and animations.
 
-# Key Features
+# Key Features :
 # Real-Time Clock Display
 
 - The clock displays the current time by default, and it updates in real-time to reflect the actual time.
